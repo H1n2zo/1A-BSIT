@@ -1,3 +1,3 @@
 # GABOR 1A-BSIT 
-# Just press sir thank you
+# Just press "HOME" sir thank you.
 *[HOME](home.html)
